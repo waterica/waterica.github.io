@@ -6,13 +6,13 @@
     "email": "waterica@seas.upenn.edu",
     "phone": "(865) 951-9872",
     "url": "https://waterica.github.io",
-    "summary": "I am a PhD student in mechanical engineering and applied mechanics at the University of Pennsylvania. I am passionate about developing meaningful, robot‑based haptic interactions that make stroke rehabilitation more affordable and accessible. My research interests include haptics, controls, human modelling, human‑robot interaction, and rehabilitation robotics."
-    // "location": {
-    //   "address": "2712 Broadway St",
-    //   "postalCode": "CA 94115",
-    //   "city": "San Francisco",
-    //   "countryCode": "US",
-    //   "region": "California"
+    "summary": "I am a PhD student in mechanical engineering and applied mechanics at the University of Pennsylvania. I am passionate about developing meaningful, robot‑based haptic interactions that make stroke rehabilitation more affordable and accessible. My research interests include haptics, controls, human modelling, human‑robot interaction, and rehabilitation robotics.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -20,7 +20,8 @@
         "username": "erica-waters-747b15192",
         "url": "https://www.linkedin.com/in/erica-waters-747b15192/"
       }
-    ],
+    ]
+  },
   "work": [
     {
       "name": "Rehabilitation Robotics Lab, University of Pennsylvania",
@@ -30,17 +31,17 @@
       "endDate": "present",
       "summary": "Researched how humans in a robot-based haptic dyad jointly learn motor tasks and leveraging novel control techniques to improve human-robot-human and human-robot interaction in the rehabilitation setting.",
       "highlights": [
-        "Performed a systematic literature review of robot‑based haptic dyads for motor learning."
-        "Implemented a dyadic PD controller on the TheraDyad, a robotic system consisting of two 1‑DOF affordable rehabilitation robots."
-        "Designed dyadic, assistive, and resistive controllers for the next generation of the TheraDrive 1‑DOF affordable rehabilitation robot."
-        "Mentored students through the Army Educational Outreach Program (AEOP) and Louis Stokes Alliances for Minority Participation (LSAMP)."
+        "Performed a systematic literature review of robot‑based haptic dyads for motor learning.",
+        "Implemented a dyadic PD controller on the TheraDyad, a robotic system consisting of two 1‑DOF affordable rehabilitation robots.",
+        "Designed dyadic, assistive, and resistive controllers for the next generation of the TheraDrive 1‑DOF affordable rehabilitation robot.",
+        "Mentored students through the Army Educational Outreach Program (AEOP) and Louis Stokes Alliances for Minority Participation (LSAMP).",
         "Presented research updates at lab meetings and journal article reviews at journal club"
       ]
     },
     {
       "name": "Behavior, Robotics, and Sensing Group, University of Tennessee",
       "position": "Undergraduate Research Assistant",
-      // "url": "https://example.com",
+      "url": "",
       "startDate": "02.2018",
       "endDate": "01.2020",
       "summary": "Researched how humans in a robot-based haptic dyad jointly learn motor tasks and leveraging novel control techniques to improve human-robot-human and human-robot interaction in the rehabilitation setting.",
@@ -57,7 +58,7 @@
   "education": [
     {
       "institution": "University of Pennsylvania, Philadelphia, PA",
-      // "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Mechanical Engineering and Applied Mechanics",
       "studyType": "PhD",
       "startDate": "08.2021",
@@ -76,21 +77,27 @@
     },
     {
       "institution": "University of Pennsylvania, Philadelphia, PA",
-      // "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Robotics",
       "studyType": "MSE",
       "startDate": "08.2021",
       "endDate": "08.2023",
       "score": "",
+      "courses": [
+        ""
+      ]
     },
     {
       "institution": "University of Tennessee, Knoxville, TN",
-      // "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Mechanical Engineering",
       "studyType": "BS",
       "startDate": "08.2017",
       "endDate": "12.2020",
       "score": "",
+      "courses": [
+        ""
+      ]
     }
   ],
   "awards": [
@@ -124,7 +131,7 @@
       "awarder": "University of Tennessee",
       "summary": "The General Assembly Merit Scholarship is established and funded from the net proceeds of the state lottery and awarded to entering freshmen as a supplement to the HOPE Scholarship."
     },
-    {S
+    {
       "title": "Volunteer Scholarship",
       "date": "08.2017",
       "awarder": "University of Tennessee",

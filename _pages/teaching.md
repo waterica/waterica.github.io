@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching and outreach experiences.
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+University of Pennsylvania | Graduate Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+MEAM 5200 | Introduction to Robotics | August 2022 - May 2023
+I was a TA for the Fall 2023 semester and the head TA in the Spring 2023 semester in the Introduction to Robotics course. This course covers the fundamental dynamic, kinematic, and computational principles relevant to modern robotic systems. Topics include: rotation matrices, forward kinematics, inverse kinematics, Jacobians, and trajectory planning. Lecture material is reinforced with hands-on lab time with 7-DOF Franka Emika Panda Arms. In my role as a TA, I led robot lab sessions for small groups, held office hours, updated lab assignments, led weekly TA meetings, directed course logistics, graded assignments, facilitated the final competition, and managed the class discussion board.
+

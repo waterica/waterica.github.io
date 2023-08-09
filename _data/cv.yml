@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Erica L. Waters
     - name: Date of Birth
-      value: 14th March 1879
+      value: February 15th, 1999
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Mechanical Engineering and Applied Mechanics
+      institution: University of Pennsylvania, Philadelphia, PA
+      year: 2026
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSE Robotics
+      institution: University of Pennsylvania, Philadelphia, PA
+      year: 2023
       description:
         - Description 1.
         - Description 2.
+    - title: BS Mechanical Engineering
+      institution: University of Tennessee, Knoxville, TN
+      year: 2020
+      description:
+        - Description 1.
+        - Description 2.
+
 
 - title: Experience
   type: time_table

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.med.upenn.edu/rehabilitation-robotics-lab/'>Affiliations</a>. waterica@seas.upenn.edu
+subtitle: <a href='https://www.med.upenn.edu/rehabilitation-robotics-lab/'>Affiliations</a>. Researcher | Engineer
 
 profile:
   align: right

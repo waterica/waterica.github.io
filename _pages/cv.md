@@ -5,5 +5,5 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: CV_Spring2023.pdf
-description: Most recent CV.
+description: most recent cv
 ---

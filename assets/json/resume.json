@@ -100,6 +100,12 @@
   ],
   "awards": [
     {
+      "title": "Center for Neuroscience and Society Graduate Fellow",
+      "date": "08.2023",
+      "awarder": "Center for Neuroscience and Society, University of Pennsylvania",
+      "summary": "The goal of the Center for Neuroscience and Society Graduate Fellows Program is to empower Penn doctoral students to explore, innovate, and critically evaluate the intersection between neuroscience and their home discipline. The program equips Fellows with a grasp of basic human neuroscience and an understanding of its applications to diverse real-world and scholarly-problems. Fellows take a two course neuroscience course sequence and participate in a series of activities and learning opportunities focused on neuroscience and its relevance to other fields, as well as professional development workshops for interdisciplinary scholars."
+    },
+    {
       "title": "Graduate Research Fellowship",
       "date": "08.2021",
       "awarder": "National Science Foundation",
@@ -144,14 +150,14 @@
   ],
   "certificates": [
     {
-      "title": "SolidWorks Associate",
+      "name": "SolidWorks Associate",
       "date": "10.2019",
-      "awarder": "DS SolidWorks Corporations, License C-TA9C8Q3NVK"
+      "issuer": "DS SolidWorks Corporations, License C-TA9C8Q3NVK"
     },
     {
-      "title": "Social & Behavioral Research – Basic",
+      "name": "Social & Behavioral Research – Basic",
       "date": "01.2018",
-      "awarder": "CITI Program, Record ID 25616434"
+      "issuer": "CITI Program, Record ID 25616434"
     }
   ],
   "publications": [],

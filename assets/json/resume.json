@@ -142,15 +142,21 @@
       "summary": "This award is in recognition of academic achievement."
     }
   ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
+  "certificates": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "title": "SolidWorks Associate",
+      "date": "10.2019",
+      "awarder": "DS SolidWorks Corporations, License C-TA9C8Q3NVK"
+    },
+    {
+      "title": "Social & Behavioral Research – Basic",
+      "date": "01.2018",
+      "awarder": "CITI Program, Record ID 25616434"
     }
   ],
+  "publications": [],
+  "skills": [],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []

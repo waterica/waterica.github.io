@@ -18,12 +18,12 @@ related_publications:
 
 *Project description for my semester in the class.*
 
-[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/hqdefault.
+[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.
 jpg)](https://youtu.be/0o74lGcMhaA)  
 
 *Competition video, my team (team 10, red), starts at 54:58*
 
-[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/hqdefault.
+[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.
 jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
 
 *Project final report available by request.*

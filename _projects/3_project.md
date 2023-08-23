@@ -14,22 +14,22 @@ related_publications:
 
 **Key Competencies:** model predictive control, PD control, least-squares method
 
-**Project Poster:**
+**Project Images:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/15_RH_MPC.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/line_plots_mpc.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Simulated human performing the trajectory tracking task with assistance from a MPC.
+    Line plots of a representative stroke model (Left) performing the trajectory tracking task different controllers resulting in (Right) different levels of human torque outputs.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Poster.pptx.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/radar_plots_mpc.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Poster presented at MEAM 5170 final project showcase.
+    Radar plots comparing human model performance in various controller configurations; (Left) Movement variability defined as the standard deviation of position [◦]; (Center) Percent of total torque provided by the human model; (Right) RMSE of position [◦].
 </div>

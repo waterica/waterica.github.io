@@ -20,8 +20,15 @@ related_publications:
 
 [![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA)  
 
-*Competition video, my team (team 10, red), starts at 54:56*
 
-[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        [![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+    </div>
+</div>
+<div class="caption">
+    Competition video, my team (team 10, red), starts at 54:56
+</div>
 
 *Project final report available by request.*

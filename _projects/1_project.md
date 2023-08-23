@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pick and place challenge
-description: final project for MEAM 5200 at the University of Pennsylvania
+description: final project for meam 5200 at the university of pennsylvania
 img: assets/img/Lab_Place.jpg
 importance: 1
 category: school
@@ -47,10 +47,10 @@ We were succesful at picking and placing static blocks. Figure 3 shows the arm p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Lab_Place.png z-depth-1" %}
+        {% include figure.html path="assets/img/Lab_Place.PNG z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Dynamic_Grab_Location.png" title="key points" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Dynamic_Grab_Location.PNG" title="key points" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

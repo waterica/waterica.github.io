@@ -1,6 +1,6 @@
 ---
 layout: page
-title: grand theft autonomous (semi-autonomous vehicle design challenge)
+title: grand theft autonomous (autonomous vehicle design challenge)
 description: Final project for meam 5100 mechatronics class
 img: assets/img/yark_side.jpeg
 importance: 2

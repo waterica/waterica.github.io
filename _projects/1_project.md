@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pick and Place Challenge
+title: pick and place challenge
 description: final project for MEAM 5200 at the University of Pennsylvania
 img: assets/img/Lab_Place.jpg
 importance: 1
@@ -10,11 +10,11 @@ related_publications:
 
 *Project final report available by request.*
 
-## Introduction
+## introduction
 
 I completed the MEAM 5200 Pick and Place Challenge with three other students (Gary Lin, Anh Nguyen, and Francis Sowande). For this project, we programmed the Franka Emika Panda Arm (“Panda”) to pick up both dynamic and static objects, orient them with the z-axis facing up, and stack them. Our entire code had to run autonomously using only the initial poses of the blocks with no updated position information. Note that our design approach for this project was highly iterative. While the high level functionality of our code remained the same, we made several changes over the course of the project to improve performance.
 
-## High Level Overview
+## high level overview
 
 From a high level, our code functioned as a finite state machine that utilized a simplistic setup involving predefined configurations and some inverse kinematics to minimize the computational complexity. In general, our finite state machine followed the path shown in figure 1a. Figure 1b shows the general set up of the pick and place challenge as well as some key point. 
 
@@ -30,7 +30,7 @@ From a high level, our code functioned as a finite state machine that utilized a
     Figure 1: (a) Finite state machine design, (b) Diagram of important points in the pick and place set up.
 </div>
 
-### Static Pick and Place
+### static pick and place
 
 For our static block strategy, the Panda arm began in the true neutral position and moved to the static block area’s neutral pose. This static neutral pose was then used as the "seed" for our gradient descent, optimization-based inverse kinematics function to find and grab blocks in specific orientations in this area. After moving back to the static and then stack neutral poses, conditional statements were used to determine whether or not the block needed to be reoriented and the block is stacked accordingly. This cycle from the stack neutral pose, through the static block grabbing and finally stacking was performed until all blocks were stacked. Figure 2 shows the Panda arm in various positions needed to grab and stack static blocks. 
 
@@ -57,7 +57,7 @@ We were succesful at picking and placing static blocks. Figure 3 shows the arm p
     Figure 3: (a) Panda arm placing a static block, (b) Stack of 4 static blocks.
 </div>
 
-### Dynamic Pick and Place
+### dynamic pick and place
 
 After stacking all static blocks, the Panda then went back to the place neutral pose and moved to another predefined "neutral" pose above the turn table containing dynamic blocks before grabbing a dynamic block and returning to its dynamic neutral pose. From there, the Panda moved the block to the "neutral pose" of the placement area and placed the block on top of the tower. The Panda continued attempting to grab dynamic blocks until the time limit was reached. 
 

@@ -16,12 +16,16 @@ related_publications:
 
 **Project Videos:**
 
-[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA) 
+<div style="text-align: center;">
+[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA)
+</div>
 <div class="caption">
     Project description for my semester in the class.
 </div>
 
+<div style="text-align: center;">
 [![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+</div>
 <div class="caption">
     Competition video, my team (team 10, red) starts at 54:56
 </div>

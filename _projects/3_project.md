@@ -2,7 +2,7 @@
 layout: page
 title: MPC for Robot‑Based Stroke Therapy
 description: Final project for meam 5170 control And optimization with applications in robotics
-img: assets/img/Dynamic_Grab_Location.PNG
+img: assets/img/15_RH_MPC.gif
 importance: 3
 category: school
 related_publications:
@@ -24,5 +24,3 @@ related_publications:
 <div class="caption">
     Poster presented at MEAM 5170 final project showcase.
 </div>
-
-![Alt text](15_RH_MPC.gif) / ![](15_RH_MPC.gif)

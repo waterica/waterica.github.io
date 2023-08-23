@@ -18,6 +18,15 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/15_RH_MPC_mpc.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Representative simulated human performing the trajectory tracking task with assistance from the MPC.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/line_plots_mpc.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

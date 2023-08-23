@@ -1,25 +1,44 @@
 ---
 layout: page
 title: pick and place
-description: Final project for meam 5200 introduction to robotics class
-img: assets/img/Dynamic_Grab_Location.PNG
-importance: 1
+description: Final project for meam 5100 mechatronics class
+img: assets/img/yark_side.jpeg
+importance: 2
 category: school
 related_publications:
 ---
 
-**Description:** For this project, I worked with a team of 3 other students to program the Franka Emika Panda Arm (“Panda”) to pick up both dynamic and static objects, orient them with the z-axis facing up, and stack them. Our entire code had to run autonomously using only the initial poses of the blocks with no updated position information.
+**Description:** For this project, I worked with 2 other students to develop a semi‑autonomous vehicle that could navigate a course. We placed 3rd in the full class competition. My main contributions to the project were programming a feedback controller that used ultrasonic sensors to follow a wall and autonomously adjust distance and orientation. I also designed an op‑amp circuit to amplify IR phototransistor signal and differentiate between 2 different signal frequencies.
 
-**Language:** Python (NumPy, SciPy)
+**Language:** C++
 
-**Key Competencies:** homogeneous transformation matrices, forward kinematics, gradient descent for optimization-based inverse kinematics
+**Key Competencies:** mechanical design, circuit design, hardware and software troubleshooting, feedback control
+
+**Project Images:**
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Comm_BlockDiagram.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Block diagram of processor communication architecture for autonomous vehicle.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/combined image.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Dimensional drawing of final vehicle design
+</div>
 
 **Project Videos:**
 
-[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA)
+[![Watch the video](https://img.youtube.com/vi/SKCZrmfyq_Q/0.jpg)](https://youtu.be/SKCZrmfyq_Q)
 
-Project description for my semester in the class.
+Autonomously driving by following a wall.
 
-[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+[![Watch the video](https://img.youtube.com/vi/XJKPVSOQwxM/0.jpg)](https://youtu.be/XJKPVSOQwxM)
 
-Competition video, my team (team 10, red) starts at 54:56
+Autonomously locating and pushing the "police box."

@@ -22,4 +22,4 @@ Project description for my semester in the class.
 
 [![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
 
-Competition video, my team (team 10, red) starts at 54:56
+Competition video, my team (team 10, red) starts at 54:56.

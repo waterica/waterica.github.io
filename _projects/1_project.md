@@ -2,7 +2,7 @@
 layout: page
 title: pick and place challenge
 description: Final project for introduction to robotics class
-img: assets/img/Lab_Place.jpg
+img: assets/img/Dynamic_Grab_Location.PNG
 importance: 1
 category: school
 related_publications:

@@ -1,20 +1,30 @@
 ---
 layout: page
 title: pick and place challenge
-description: final project for meam 5200 at the university of pennsylvania
+description: Final project for introduction to robotics class
 img: assets/img/Lab_Place.jpg
 importance: 1
 category: school
 related_publications:
 ---
 
+**Description:** For this project, I worked with a team of 3 other students to program the Franka Emika Panda Arm (“Panda”) to pick up both dynamic and static objects, orient them with the z-axis facing up, and stack them. Our entire code had to run autonomously using only the initial poses of the blocks with no updated position information.
+
+**Language:** Python (NumPy, SciPy)
+**Key Competencies:** homogeneous transformation matrices, forward kinematics, gradient descent for optimization-based inverse kinematics
+
+### Project description for my semester in the class.
+
+[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/hqdefault.
+jpg)](https://youtu.be/0o74lGcMhaA)  
+
+### Competition video, my team (team 10, red), starts at 54:58
+[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/hqdefault.
+jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+
 *Project final report available by request.*
 
-## introduction
-
-I completed the MEAM 5200 Pick and Place Challenge with three other students (Gary Lin, Anh Nguyen, and Francis Sowande). For this project, we programmed the Franka Emika Panda Arm (“Panda”) to pick up both dynamic and static objects, orient them with the z-axis facing up, and stack them. Our entire code had to run autonomously using only the initial poses of the blocks with no updated position information. Note that our design approach for this project was highly iterative. While the high level functionality of our code remained the same, we made several changes over the course of the project to improve performance.
-
-## high level overview
+<!-- ## high level overview
 
 From a high level, our code functioned as a finite state machine that utilized a simplistic setup involving predefined configurations and some inverse kinematics to minimize the computational complexity. In general, our finite state machine followed the path shown in figure 1a. Figure 1b shows the general set up of the pick and place challenge as well as some key point. 
 
@@ -70,7 +80,7 @@ Unlike with the static blocks, we only managed to grab a dynamic block a few tim
 </div>
 <div class="caption">
     Figure 4: Panda arm grabbing a dynamic block.
-</div>
+</div> -->
 
 
 <!-- The code is simple.

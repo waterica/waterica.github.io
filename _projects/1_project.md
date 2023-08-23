@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pick and place
+title: 7-dof robot arm pick and place challenge
 description: Final project for meam 5200 introduction to robotics class
 img: assets/img/Dynamic_Grab_Location.PNG
 importance: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pick and place challenge
-description: Final project for introduction to robotics class
+title: pick and place
+description: Final project for meam 5200 introduction to robotics class
 img: assets/img/Dynamic_Grab_Location.PNG
 importance: 1
 category: school
@@ -16,19 +16,14 @@ related_publications:
 
 **Project Videos:**
 
-*Project description for my semester in the class.*
-
-[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA)  
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        [![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
-    </div>
-</div>
+[![Watch the video](https://img.youtube.com/vi/0o74lGcMhaA/0.jpg)](https://youtu.be/0o74lGcMhaA) 
 <div class="caption">
-    Competition video, my team (team 10, red), starts at 54:56
+    Project description for my semester in the class.
+</div>
+
+[![Watch the video](https://img.youtube.com/vi/kSxYnSfTZAQ/0.jpg)](https://youtu.be/kSxYnSfTZAQ?t=3296)
+<div class="caption">
+    Competition video, my team (team 10, red) starts at 54:56
 </div>
 
 *Project final report available by request.*

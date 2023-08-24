@@ -1,7 +1,7 @@
 ---
 layout: page
-title: grand theft autonomous (autonomous vehicle design challenge)
-description: Final project for meam 5100 design of mechatronic systems class
+title: Grand Theft Autonomous (Autonomous Vehicle Design Challenge)
+description: Final project for MEAM 5100 design of mechatronic systems class
 img: assets/img/yark_side.jpeg
 importance: 2
 category: school

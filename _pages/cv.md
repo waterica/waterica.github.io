@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Spring2023.pdf
+cv_pdf: CV_Fall2023.pdf
 description: most recent cv
 ---

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.med.upenn.edu/rehabilitation-robotics-lab/'>Rehabilitation Robotics Lab</a> | GRASP Lab | University of Pennsylvania
 

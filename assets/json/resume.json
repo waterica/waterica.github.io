@@ -46,11 +46,9 @@
       "endDate": "01.2020",
       "summary": "Researched how humans in a robot-based haptic dyad jointly learn motor tasks and leveraging novel control techniques to improve human-robot-human and human-robot interaction in the rehabilitation setting.",
       "highlights": [
-        "Performed a systematic literature review of robot‑based haptic dyads for motor learning.",
-        "Implemented a dyadic PD controller on the TheraDyad, a robotic system consisting of two 1‑DOF affordable rehabilitation robots.",
-        "Designed dyadic, assistive, and resistive controllers for the next generation of the TheraDrive 1‑DOF affordable rehabilitation robot.",
-        "Mentored students through the Army Educational Outreach Program (AEOP) and Louis Stokes Alliances for Minority Participation (LSAMP).",
-        "Presented research updates at lab meetings and journal article reviews at journal club"
+        "Designed a human subjects study relating upper extremity reaching kinematics and confidence",
+        "Utilized a 3D motion capture system to obtain kinematic data of human reaching to different targets and assessed self‑reported confidence",
+        "Trained a k‑nearest neighbors algorithm to classify confidence of a reach based on kinematic features"
       ]
     }
   ],
@@ -103,48 +101,56 @@
       "title": "Center for Neuroscience and Society Graduate Fellow",
       "date": "08.2023",
       "awarder": "Center for Neuroscience and Society, University of Pennsylvania",
+      "url": "https://neuroethics.upenn.edu/education/center-for-neuroscience-society-graduate-fellows/",
       "summary": "The goal of the Center for Neuroscience and Society Graduate Fellows Program is to empower Penn doctoral students to explore, innovate, and critically evaluate the intersection between neuroscience and their home discipline. The program equips Fellows with a grasp of basic human neuroscience and an understanding of its applications to diverse real-world and scholarly-problems. Fellows take a two course neuroscience course sequence and participate in a series of activities and learning opportunities focused on neuroscience and its relevance to other fields, as well as professional development workshops for interdisciplinary scholars."
     },
     {
       "title": "Graduate Research Fellowship",
       "date": "08.2021",
       "awarder": "National Science Foundation",
+      "url": "https://www.nsfgrfp.org/",
       "summary": "The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. GRFP seeks to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans. The five-year fellowship provides three years of financial support inclusive of an annual stipend of $37,000."
     },
     {
       "title": "Grand Challenge Scholar",
       "date": "12.2020",
       "awarder": "National Academy of Engineers",
+      "url": "https://www.engineeringchallenges.org/14384.aspx",
       "summary": "The Grand Challenge Scholar Program (GCSP) is a combined curricular, co-curricular, and extra-curricular program with five competencies that are designed to prepare the next generation of students for addressing the grand challenges facing society in this century. Each institution creates their own specific realization of how the competencies are implemented, which are approved by the GCSP steering committee."
     },
     {
       "title": "Honors and Scholars Summer Enrichment Grant",
       "date": "05.2020",
       "awarder": "University of Tennessee",
+      "url": "https://studentsuccess.utk.edu/honors/2020/04/03/honors-scholars-summer-enrichment-grants/",
       "summary": "The Honors and Scholars Summer Enrichment Grant is supplemental funds up to $1,500. These funds are to support summer enrichment experiences for students in good standing with the honors and scholars programs."
     },
     {
       "title": "HOPE Scholarship",
       "date": "08.2017",
       "awarder": "University of Tennessee",
+      "url": "https://www.tn.gov/thec/research/tn-hope-scholarship-program.html",
       "summary": "The HOPE Scholarship is established and funded from the net proceeds of the state lottery and awarded to entering freshmen who are enrolled at an eligible postsecondary institution. "
     },
     {
       "title": "General Assembly Merit Scholarship",
       "date": "08.2017",
       "awarder": "University of Tennessee",
+      "url": "https://www.tn.gov/thec/research/tn-hope-scholarship-program.html",
       "summary": "The General Assembly Merit Scholarship is established and funded from the net proceeds of the state lottery and awarded to entering freshmen as a supplement to the HOPE Scholarship."
     },
     {
       "title": "Volunteer Scholarship",
       "date": "08.2017",
       "awarder": "University of Tennessee",
+      "url": "https://onestop.utk.edu/scholarships/volunteer/",
       "summary": "The Volunteer Scholarship program recognizes students with an exemplary academic record based on a combination of GPA and test scores."
     },
     {
       "title": "Dr. and Mrs. Joe Beals Scholarship",
       "date": "08.2017",
       "awarder": "University of Tennessee",
+      "url": "https://utk.scholarships.ngwebsolutions.com/Scholarships/Search",
       "summary": "This award is in recognition of academic achievement."
     }
   ],
@@ -161,7 +167,67 @@
     }
   ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Engineering",
+      "level": "Expert",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Controls",
+        "Machine Learning",
+        "Microcontrollers (Teensy, Arduino. ItsyBitsy, ESP32)",
+        "CAD (SolidWorks,Onshape)",
+        "Sensors and Signal Processing",
+        "Prototyping (Laser Cutting, 3D Printing)",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Human Subjects (IRB Protocol Writing, Recruitment, Consenting)",
+        "Clinical Assessment (Box and Blocks, Grooved Pegboard, Color Trails)",
+        "Experimental Design",
+        "Literature Review"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python (NumPy, SciPy, Matplotlib, PyTorch, Scikit-learn, Pandas, Pydrake, etc.)",
+        "C/C++",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Technical Writing",
+        "Logistics and Planning",
+        "Leadership",
+        "Mentorship",
+        "Communication",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "LaTeX",
+        "Git",
+        "REDCap",
+        "SPSS"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],

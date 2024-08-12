@@ -178,7 +178,7 @@
     {
       "name": "Engineering",
       "level": "Expert",
-      "icon": "fa-solid fa-gear-complex",
+      "icon": "fa-solid fa-gear",
       "keywords": [
         "Controls",
         "Machine Learning",
@@ -191,7 +191,7 @@
     },
     {
       "name": "Research",
-      "level": "Intermediate",
+      "level": "Expert",
       "icon": "fa-solid fa-clipboard-check",
       "keywords": [
         "Human Subjects (IRB Protocol Writing, Recruitment, Consenting)",
@@ -212,7 +212,7 @@
     },
     {
       "name": "Soft Skills",
-      "level": "Intermediate",
+      "level": "Expert",
       "icon": "fa-solid fa-icons",
       "keywords": [
         "Technical Writing",

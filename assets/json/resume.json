@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Erica Waters",
-    "label": "PhD Student",
+    "label": "PhD Candidate",
     "image": "",
     "email": "waterica@seas.upenn.edu",
     "phone": "(865) 951-9872",
     "url": "https://waterica.github.io",
-    "summary": "I am a PhD student in mechanical engineering and applied mechanics at the University of Pennsylvania. I am passionate about developing meaningful, robot‑based haptic interactions that make stroke rehabilitation more affordable and accessible. My research interests include haptics, controls, human modelling, human‑robot interaction, and rehabilitation robotics.",
+    "summary": "I am a PhD candidate in mechanical engineering and applied mechanics at the University of Pennsylvania. I am passionate about developing meaningful, robot‑based haptic interactions that make stroke rehabilitation more affordable and accessible. My research interests include haptics, controls, human modelling, human‑robot interaction, and rehabilitation robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,10 +31,10 @@
       "endDate": "present",
       "summary": "Researched how humans in a robot-based haptic dyad jointly learn motor tasks and leveraging novel control techniques to improve human-robot-human and human-robot interaction in the rehabilitation setting.",
       "highlights": [
-        "Performed a systematic literature review of robot‑based haptic dyads for motor learning.",
-        "Implemented a dyadic PD controller on the TheraDyad, a robotic system consisting of two 1‑DOF affordable rehabilitation robots.",
-        "Designed dyadic, assistive, and resistive controllers for the next generation of the TheraDrive 1‑DOF affordable rehabilitation robot.",
-        "Mentored students through the Army Educational Outreach Program (AEOP) and Louis Stokes Alliances for Minority Participation (LSAMP).",
+        "Performed a systematic literature review of robot‑based haptic dyads for motor learning",
+        "Implemented a dyadic PD controller on the TheraDyad, a robotic system consisting of two 1‑DOF affordable rehabilitation robots",
+        "Designed dyadic, assistive, and resistive controllers for the next generation of the TheraDrive 1‑DOF affordable rehabilitation robot",
+        "Mentored students through the Army Educational Outreach Program (AEOP) and Louis Stokes Alliances for Minority Participation (LSAMP)",
         "Presented research updates at lab meetings and journal article reviews at journal club"
       ]
     },
@@ -192,7 +192,7 @@
     {
       "name": "Research",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-clipboard-check",
       "keywords": [
         "Human Subjects (IRB Protocol Writing, Recruitment, Consenting)",
         "Clinical Assessment (Box and Blocks, Grooved Pegboard, Color Trails)",
@@ -203,9 +203,9 @@
     {
       "name": "Programming",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python (NumPy, SciPy, Matplotlib, PyTorch, Scikit-learn, Pandas, Pydrake, etc.)",
+        "Python (NumPy, SciPy, Matplotlib, Pandas, Scikit-learn, PyTorch, Pydrake)",
         "C/C++",
         "MATLAB"
       ]

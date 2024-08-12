@@ -178,7 +178,7 @@
     {
       "name": "Engineering",
       "level": "Expert",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-gear-complex",
       "keywords": [
         "Controls",
         "Machine Learning",
@@ -203,7 +203,7 @@
     {
       "name": "Programming",
       "level": "Intermediate",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-file-code",
       "keywords": [
         "Python (NumPy, SciPy, Matplotlib, Pandas, Scikit-learn, PyTorch, Pydrake)",
         "C/C++",
@@ -213,7 +213,7 @@
     {
       "name": "Soft Skills",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-icons",
       "keywords": [
         "Technical Writing",
         "Logistics and Planning",
@@ -226,7 +226,7 @@
     {
       "name": "Miscellaneous",
       "level": "Intermediate",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-cubes",
       "keywords": [
         "LaTeX",
         "Git",

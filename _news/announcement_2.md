@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded the National Institutes of Health Ruth L. Kirschstein Predoctoral Individual National Research Service Award (F31), which is described in <a href="https://blog.me.upenn.edu/breaking-barriers-in-stroke-rehabilitation-doctoral-student-erica-waters-awarded-f31-grant/">this article</a> from the Department of Mechanical Engineering and Applied Mechanics (MEAM) at the University of Pennsylvania School of Engineering and Applied Science.
+<a href="https://blog.me.upenn.edu/breaking-barriers-in-stroke-rehabilitation-doctoral-student-erica-waters-awarded-f31-grant/">Breaking Barriers in Stroke Rehabilitation: Doctoral Student Erica Waters Awarded F31 Grant</a>, University of Pennsylvania School of Engineering and Applied Science Department of Mechanical Engineering and Applied Mechanics

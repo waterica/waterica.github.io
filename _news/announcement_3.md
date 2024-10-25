@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-During my undergraduate studies, I helped found the Life Without Limits Club, a student organization focused on creating 3D printed assistive devices for individuals with disabilities. More information abou the club is available in <a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">this article</a> from the Department of Mechanical, Aerospace, and Biomedical Engineering (MABE) at the University of Tennessee Tickle College of Engineering.
+<a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">At Crossroads of Engineering and Disability: Student Innovation Thrives</a>, University of Tennessee Tickle College of Engineering Department of Mechanical, Aerospace, and Biomedical Engineering

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Teaching experience at the K-12 and university level
+permalink: /outreach/
+title: Outreach
+description: Outreach and mentorship experiences
 nav: true
 nav_order: 3
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: 2022-04-12 15:59:00-0400
 title: Life Without Limits Club
-inline: false
+inline: true
 related_posts: false
 ---
 

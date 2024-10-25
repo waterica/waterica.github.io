@@ -2,7 +2,7 @@
 layout: post
 date: 2024-10-18 15:59:00-0400
 title: NIH F31 Fellowship Awarded
-inline: false
+inline: true
 related_posts: false
 ---
 

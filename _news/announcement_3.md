@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">At Crossroads of Engineering and Disability: Student Innovation Thrives</a>, University of Tennessee Tickle College of Engineering Department of Mechanical, Aerospace, and Biomedical Engineering
+<a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">At Crossroads of Engineering and Disability: Student Innovation Thrives</a>, University of Tennessee, Tickle College of Engineering, Department of Mechanical, Aerospace, and Biomedical Engineering

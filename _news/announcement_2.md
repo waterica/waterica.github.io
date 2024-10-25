@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://blog.me.upenn.edu/breaking-barriers-in-stroke-rehabilitation-doctoral-student-erica-waters-awarded-f31-grant/">Breaking Barriers in Stroke Rehabilitation: Doctoral Student Erica Waters Awarded F31 Grant</a>, University of Pennsylvania School of Engineering and Applied Science Department of Mechanical Engineering and Applied Mechanics
+<a href="https://blog.me.upenn.edu/breaking-barriers-in-stroke-rehabilitation-doctoral-student-erica-waters-awarded-f31-grant/">Breaking Barriers in Stroke Rehabilitation: Doctoral Student Erica Waters Awarded F31 Grant</a>, University of Pennsylvania, School of Engineering and Applied Science, Department of Mechanical Engineering and Applied Mechanics

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-04-09
+date: 2021-04-09 15:59:00-0400
 title: NSF Graduate Research Fellowship Awarded
 inline: false
 related_posts: false

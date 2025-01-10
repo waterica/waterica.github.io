@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://tickle.utk.edu/engineering-vols-earn-nsf-graduate-research-fellowships/">Engineering Vols Earn NSF Graduate Research Fellowships</a>, University of Tennessee, Tickle College of Engineering
+<a href="https://tickle.utk.edu/news/engineering-vols-earn-nsf-graduate-research-fellowships/">Engineering Vols Earn NSF Graduate Research Fellowships</a>, University of Tennessee, Tickle College of Engineering

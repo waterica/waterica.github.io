@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Rehabilitation
-description: Dissertation research project
-img: assets/img/kinematic_fig.gif
+description: Dissertation research project at the University of Pennsylvania
+img: assets/img/TD_SetUp_Participants.png
 importance: 1
 category: research
 related_publications: Waters2024_conference, Waters2024

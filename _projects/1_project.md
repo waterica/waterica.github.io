@@ -10,6 +10,9 @@ related_publications:
 
 **Description:** For this project, I worked with a team of 3 other students to program the Franka Emika Panda Arm (“Panda”) to pick up both dynamic and static objects, orient them with the z-axis facing up, and stack them. Our entire code had to run autonomously using only the initial poses of the blocks with no updated position information.
 
+**Role:** Defined design requiremenets, evaluated robot performance, designed finite state machine, and assisted with function programming
+
+
 **Language:** Python (NumPy, SciPy)
 
 **Key Competencies:** homogeneous transformation matrices, forward kinematics, gradient descent for optimization-based inverse kinematics

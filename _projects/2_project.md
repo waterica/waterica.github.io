@@ -10,6 +10,8 @@ related_publications:
 
 **Description:** For this project, I worked with 2 other students to develop a semi‑autonomous vehicle that could navigate a course. We placed 3rd in the full class competition. My main contributions to the project were programming a feedback controller that used ultrasonic sensors to follow a wall and autonomously adjust distance and orientation. I also designed an op‑amp circuit to amplify IR phototransistor signal and differentiate between 2 different signal frequencies.
 
+**Role:** Designed controllers and general program logic, designed op-amp circuit for IR phototransistor, assisted with mechanical design, performed testing and troubleshooting
+
 **Language:** C++
 
 **Key Competencies:** mechanical design, circuit design, hardware and software troubleshooting, feedback control

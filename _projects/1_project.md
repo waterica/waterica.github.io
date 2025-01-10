@@ -3,7 +3,7 @@ layout: page
 title: 7-DOF Robot Arm Pick and Place 
 description: Final project for MEAM 5200 introduction to robotics class
 img: assets/img/Dynamic_Grab_Location.PNG
-importance: 1
+importance: 10
 category: school
 related_publications:
 ---

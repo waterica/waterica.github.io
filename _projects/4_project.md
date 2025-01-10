@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Self-Efficacy and Kinematics of a Goal Directed Reaching Task
-description: Final project for MEAM 5200 introduction to robotics class
+description: Undergraduate research project
 img: assets/img/kinematic_fig.gif
-importance: 1
+importance: 2
 category: research
 related_publications: 9003072, 9441448
 ---
@@ -13,3 +13,5 @@ related_publications: 9003072, 9441448
 **Language:** MATLAB
 
 **Key Competencies:** human reaching kinematic analysis, supervised machine learning, statistical analysis, experimental design, 3D-motion capture
+
+**Funding:** This project was partially supported by NIH ID: EB022336

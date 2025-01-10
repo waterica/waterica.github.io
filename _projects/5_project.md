@@ -1,80 +1,17 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Rehabilitation
+description: Dissertation research project
+img: assets/img/kinematic_fig.gif
+importance: 1
+category: research
+related_publications: Waters2024_conference, Waters2024
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Description:** Under the direction of Dr. Michelle Johnson, I am investigating how haptic connection to a partner influences learning and retention of a robot-based motor task for individuals with different motor and cognitive abilities. This project is motivated by the idea that haptically connecting post-stroke individuals in a multiplayer game could allow them to take advantage of the social and motivational benefits of multiplayer games as well as the implicit communication channels and increased motor variability afforded by a haptic connection. Our objectives are (1) to study the influence of motor and cognitive impairments on learning and retention of a robot-based motor task while haptically linked to a partner compared to learning a robot-based motor task independently without a haptic connection, (2) to study the influence of varying relative partner motor and cognitive ability levels in a dyad on learning and retention of a robot-based motor task, (3) to study how the exchange of haptic information between human partners can be optimized to improve motor and cognitive learning of a robot-based motor task, and (4) to use our findings from human-robot-robot-human interactions to inform the design of an assistive, human-like robotic controller. So far, I have performed a systematic literature review to investigate the effect of a robot-based haptic dyad on motor learning. The findings of this literature review helped to guide the design of the TheraDyad, a low-cost robotic rehabilitation system to haptically connect dyads. Finally, I have conducted a case study with older adults with and without motor and cognitive impairments to investigate their motor performance, motor learning, and user experience results while using the system.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Language:** Python, C++
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Key Competencies:** PID control, optimal control, statistical analysis, experimental design, literature review, human subjects research
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+**Funding:** This project is supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1845298, the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health under Award Number F31HD116597, and the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health under Award Number R42HD104325.

@@ -2,7 +2,7 @@
 layout: page
 title: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Rehabilitation
 description: Dissertation research project at the University of Pennsylvania
-img: assets/img/TD_SetUp_Participants.png
+img: assets/img/TheraDyad.jpg
 importance: 1
 category: research
 related_publications: Waters2024_conference, Waters2024
@@ -10,7 +10,7 @@ related_publications: Waters2024_conference, Waters2024
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TD_SetUp_Participants.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/TheraDyad.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,6 +23,6 @@ related_publications: Waters2024_conference, Waters2024
 
 **Language:** Python, C++
 
-**Key Competencies:** PID control, optimal control, statistical analysis, experimental design, literature review, human subjects research
+**Key Competencies:** PID control, statistical analysis, experimental design, literature review, human subjects research
 
 **Funding:** This project is supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1845298, the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health under Award Number F31HD116597, and the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health under Award Number R42HD104325.

@@ -2,7 +2,7 @@
 layout: page
 title: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Rehabilitation
 description: Dissertation research project at the University of Pennsylvania
-img: assets/img/TheraDyad.jpg
+img: assets/img/TheraDyad.JPG
 importance: 1
 category: research
 related_publications: Waters2024_conference, Waters2024
@@ -10,7 +10,7 @@ related_publications: Waters2024_conference, Waters2024
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TheraDyad.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/TheraDyad.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

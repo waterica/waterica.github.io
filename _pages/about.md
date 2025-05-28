@@ -27,7 +27,7 @@ My interest in assistive technology began early. I got my first glimpse of the p
 
 I went on to pursue my PhD at Penn, picking up an M.S.E. in Robotics along the way. My graduate research explores how people learn motor skills together in haptic dyads and how control strategies can be designed to enhance both individual recovery and social interaction in rehabilitation. A day in my life might include collecting human-robot-interaction data in the clinic, modeling post-stroke movement behavior, and mentoring undergraduate researchers.
 
-I have received support from the NSF Graduate Research Fellowship and the NIH Ruth L. Kirschstein Predoctoral NRSA (F31). My long-term goal is to bring empathetic, intelligent rehabilitation technology out of the lab and into real-world use, particularly in underserved clinical settings. I am also passionate about STEM outreach, especially at the K–12 level, and about creating engineering solutions that promote independence, inclusion, and human connection.
+I have received support from the NSF Graduate Research Fellowship and the NIH Ruth L. Kirschstein Predoctoral NRSA (F31). My long-term goal is to bring empathetic, intelligent rehabilitation technology out of the lab and into real-world use, particularly in underserved clinical settings. I am also passionate about research mentorship and STEM outreach, especially at the K–12 level.
 
 I am excited to continue exploring the intersection of haptics, learning, and human-robot interaction through collaborative research that reimagines how people support one another through technology!
 

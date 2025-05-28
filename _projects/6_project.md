@@ -5,7 +5,7 @@ description: Research project at the University of Pennsylvania
 img: assets/img/CS1_Assessment.png
 importance: 1
 category: research
-related_publications: Waters2025_icorr
+related_publications: Waters2025_icorr, Waters2025_embc
 ---
 
 <div class="row">
@@ -19,7 +19,7 @@ related_publications: Waters2025_icorr
 
 **Description:** This project represents a spin-off of my dissertation work. The project involves developing an optimal control model of post-stroke interactions with a rehabilitation robot. The overall goal of the project is to better understanding post-stroke motor control in order to improve assessment.
 
-**Role:** Primary Investigator
+**Role:** Principle Investigator
 
 **Language:** Python
 

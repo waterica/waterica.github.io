@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 <a href="https://tickle.utk.edu/news/engineering-vols-earn-nsf-graduate-research-fellowships/">Engineering Vols Earn NSF Graduate Research Fellowships</a>, University of Tennessee, Tickle College of Engineering
-*"Two Engineering Vols—one current and one recently graduated—earned prestigious National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) awards for 2021..."

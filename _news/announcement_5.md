@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2021-04-27 15:59:00-0400
-title: NSF GRFP
+date: 2022-06-28 15:59:00-0400
+title: AEOP 2022
 inline: true
 related_posts: false
 ---
 
-<a href="https://news.utk.edu/2021/04/27/four-students-awarded-nsf-graduate-research-fellowships/">Four Students Awarded NSF Graduate Research Fellowships</a>, University of Tennessee, 
-News & Information
+<a href="https://www.grasp.upenn.edu/news/grasp-lab-welcomes-summer22-aeop-apprenticeship-students/">GRASP Lab Welcomes Summer’22 AEOP Apprenticeship Students!</a>, University of Pennsylvania, School of Engineering and Applied Science, GRASP Lab

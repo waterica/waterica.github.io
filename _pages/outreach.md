@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7326606928682393600?collapsed=1" height="647" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **K-12 STEM Outreach**
 As an undergraduate student, I volunteered at STEM outreach activities with the <a href="https://utk.swe.org/outreach-volunteering/">Society of Women Engineers</a> and <a href="https://tnscioly.utk.edu/">Tennessee Science Olympiad</a>. As part of the EF 327 class, Honors: Engineering Design in K-12 Education, I developed engineering curriculum materials for high school students in the Knox County School district and created a <a href="https://sites.google.com/vols.utk.edu/easttnstemhub/resources-for-families-and-teachers/stem-sparks#h.qhoy47bivb6y">Hover Craft STEMspark</a> activity video for elementary aged students. As a graduate student, I have taught STEM lessons to middle school aged students in the <a href="https://gems.seas.upenn.edu/">Penn GEMS Engineering, Science, and Math Camp</a>, led a robotics workshop for high school sophomores in the <a href="https://fi.edu/en/science-and-education/stem-scholars">Franklin Institute STEM Scholars Program</a>, and presented on behalf of the Rehabilitation Robotics Lab at outreach events for high school students. 
 

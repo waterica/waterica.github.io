@@ -16,3 +16,29 @@ In the past, I have mentored undergraduate engineering students as part of the <
 **Volunteer Work with Individuals with Disabilities**
 As an undergraduate student, I helped found <a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">Life Without Limits</a>, a student organization focused on designing 3D printed assistive devices for individuals with disabilities. I also volunteered as a peer mentor for students with developmental and intellectual disabilities through the <a href="https://futureut.utk.edu/">FUTURE Postsecondary Education Program</a>.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/franklinInstitute_outreach.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Leading a robotics workshop for high school students in the Franklin Institute STEM Scholars Program (Spring 2025).
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/labTour_outreach.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Demoing TheraDyad robots to K-12 teachers (Spring 2025).
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lsamp_outreach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Supporting Rehab Robotics Lab students at LSAMP presentations (Summer 2024).
+</div>

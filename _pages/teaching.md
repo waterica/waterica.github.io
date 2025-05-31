@@ -6,6 +6,11 @@ description: Teaching experience at the K-12 and university level
 nav: true
 nav_order: 3
 ---
+I believe engineering is more than a skill set—it is an identity cultivated through experience and self-reflection. My goal is to help students develop their own engineering identities by fostering curiosity, resilience, and collaboration. I have earned the <a href="https://cetli.upenn.edu/programs/grad-students/teaching-certificate/">CETLI Teaching Certificate</a> from the Penn Center for Excellence in Teaching, Learning, and Innovation. My teaching experience includes the following:
+
+**Invited Talks: Seminars and Guest Lectures**
+I have given several invited seminar presentations and academic guest lectures. I have given invited seminars at the <a href="https://events.med.upenn.edu/live/files/2880-webinar-seriesgpmrrjanuary-2025pdf">Global Perspectives on Medicine, Rehabilitation and Robotics Webinar Series</a> and the University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics Summer Seminar Series. I have also provided guest lectures to undergraduate and graduate students in BE 5140: Rehab Engineering at Penn (Fall 2024) and Design BIME 589/689: Introduction to Rehabilitation Robotic class at Rochester Institute of Technology (Spring 2024, Spring 2025). In addition to standard university courses, I have presented my research to K-12
+teachers in the <a href="https://theteachersinstitute.org/">Teachers Institute of Philadelphia</a> Robots and Smart Tech for Physical Therapy Seminar.
 
 **Graduate Teaching Assistant \| University of Pennsylvania**
 

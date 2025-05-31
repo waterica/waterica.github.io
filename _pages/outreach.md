@@ -16,5 +16,3 @@ In the past, I have mentored undergraduate engineering students as part of the <
 **Volunteer Work with Individuals with Disabilities**
 As an undergraduate student, I helped found <a href="https://mabe.utk.edu/at-crossroads-of-engineering-and-disability-student-innovation-thrives/">Life Without Limits</a>, a student organization focused on designing 3D printed assistive devices for individuals with disabilities. I also volunteered as a peer mentor for students with developmental and intellectual disabilities through the <a href="https://futureut.utk.edu/">FUTURE Postsecondary Education Program</a>.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7326606928682393600?collapsed=1" height="647" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-

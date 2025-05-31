@@ -7,4 +7,5 @@ related_posts: false
 ---
 
 <a href="https://www.linkedin.com/embed/feed/update/urn:li:share:7326606928682393600?collapsed=1">Outreach Workshop with the Franklin Institute</a>, Rehabilitation Robotics Lab, LinkedIn
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7326606928682393600?collapsed=1" height="400" width="630" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

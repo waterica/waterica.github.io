@@ -9,6 +9,7 @@ nav_order: 3
 I believe engineering is more than a skill set—it is an identity cultivated through experience and self-reflection. My goal is to help students develop their own engineering identities by fostering curiosity, resilience, and collaboration. I have earned the <a href="https://cetli.upenn.edu/programs/grad-students/teaching-certificate/">CETLI Teaching Certificate</a> from the Penn Center for Excellence in Teaching, Learning, and Innovation. My teaching experience includes the following:
 
 **Invited Talks: Seminars and Guest Lectures**
+
 I have given several invited seminar presentations and academic guest lectures. I have given invited seminars at the <a href="https://events.med.upenn.edu/live/files/2880-webinar-seriesgpmrrjanuary-2025pdf">Global Perspectives on Medicine, Rehabilitation and Robotics Webinar Series</a> and the University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics Summer Seminar Series. I have also provided guest lectures to undergraduate and graduate students in BE 5140: Rehab Engineering at Penn (Fall 2024) and Design BIME 589/689: Introduction to Rehabilitation Robotic class at Rochester Institute of Technology (Spring 2024, Spring 2025). In addition to standard university courses, I have presented my research to K-12
 teachers in the <a href="https://theteachersinstitute.org/">Teachers Institute of Philadelphia</a> Robots and Smart Tech for Physical Therapy Seminar.
 
@@ -22,24 +23,18 @@ I was a head TA for the Fall 2023 semester in the Design of Mechatronic Systems 
 
 I was a TA for the Fall 2022 semester and the head TA in the Spring 2023 semester in the Introduction to Robotics course. This course covers the fundamental dynamic, kinematic, and computational principles relevant to modern robotic systems. Topics include: rotation matrices, forward kinematics, inverse kinematics, Jacobians, and trajectory planning. Lecture material is reinforced with hands-on lab time with 7-DOF Franka Emika Panda Arms. In my role as a TA, I led robot lab sessions for small groups, held office hours, updated lab assignments, led weekly TA meetings, directed course logistics, graded assignments, facilitated the final competition, and managed the class discussion board.
 
+**K-12 Tutoring and Instruction**
 
-**Tutor \| OpenLiteracy**
-
-*9th Grade Geometry \| 01.2021 - 06.2021*
+*9th Grade Geometry Tutor \| OpenLiteracy \| 01.2021 - 06.2021*
 
 I tutored ninth grade geometry over Zoom. I worked one-on-one with four students and developed individualized digital study materials such as Quizlets and Jamboard. I also held virtual office hours to provide homework help.
 
-
-**Instructor \| Kids 4 Coding**
-
-*python and scratch \| 09.2020 - 12.2020*
+*Python and Scratch Instructor \| Kids 4 Coding \| 09.2020 - 12.2020*
 
 I led weekly virtual Python and Scratch lessons for elementary and middle school aged children. I also developed supplementary materials like PowerPoint slides and Kahoot! to help keep students engaged.
 
-**Tutor \| Tennessee Tutoring Corps**
 
-*3rd Grade English Language Arts and Math \| 06.2020 - 08.2020*
-
+*3rd Grade English Language Arts and Math Tutor \| Tennessee Tutoring Corps \| 06.2020 - 08.2020*
 
 I led English language arts and math small groups for rising third-grade students at the Boys and Girls Club. I followed an existing lesson plan and developed learning games to supplement the existing material.
 

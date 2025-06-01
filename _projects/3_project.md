@@ -4,7 +4,7 @@ title: MPC for Robot‑Based Stroke Therapy
 description: Final project for MEAM 5170 control and optimization with applications in robotics
 img: assets/img/line_plots_mpc.PNG
 importance: 1
-category: school
+category: School
 related_publications:
 ---
 

@@ -4,7 +4,7 @@ title: Optimal Control Modeling of Healthy and Post-Stroke Human-Robot Interacti
 description: Research project at the University of Pennsylvania
 img: assets/img/CS1_Assessment.png
 importance: 1
-category: research
+category: Current Research
 related_publications: Waters2025_icorr, Waters2025_embc
 ---
 

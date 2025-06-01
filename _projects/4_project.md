@@ -4,7 +4,7 @@ title: Self-Efficacy and Kinematics of a Goal Directed Reaching Task
 description: Undergraduate research project at the University of Tennessee
 img: assets/img/kinematic_fig.gif
 importance: 2
-category: research
+category: Past Research
 related_publications: 9003072, 9441448
 ---
 

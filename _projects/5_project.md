@@ -4,7 +4,7 @@ title: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Reh
 description: Dissertation research project at the University of Pennsylvania
 img: assets/img/TheraDyad.JPG
 importance: 1
-category: research
+category: Current Research
 related_publications: Waters2024_conference, Waters2024
 ---
 

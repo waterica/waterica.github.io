@@ -2,7 +2,7 @@
 layout: page
 title: Predicting Finger Flexion from Electrocorticography (ECoG) Using Gradient Boosted Regression
 description: Final project for BE 5210 Brain Computer Interfaces (Penn, Spring 2023)
-img: assets/img/Dynamic_Grab_Location.PNG
+img: assets/img/finger_flexion.png
 importance: 10
 category: School
 related_publications:

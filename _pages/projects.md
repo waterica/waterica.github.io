@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my projects
+description: Research and engineering projects throughout my career.
 nav: true
 nav_order: 2
 display_categories: [research, school]

@@ -23,13 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candidate in Mechanical Engineering and Applied Mechanics at the University of Pennsylvania, where I design rehabilitation robotic systems to make recovery more accessible, affordable, and human-centered for people with disabilities. My work focuses on creating meaningful haptic interactions that support motor learning and foster collaboration between people and robots.
 
-My interest in assistive technology began early. I first saw the power of assistive technology while helping in my mom’s special education classroom. Watching students use technology to learn and connect inspired me to study mechanical engineering. As an undergraduate at the University of Tennessee, I volunteered with students with disabilities and designed assistive devices through student organizations. I also conducted research on how upper-limb movement kinematics relate to confidence in task performance, with implications for post-stroke monitoring.
-
-I went on to pursue my PhD at Penn, picking up an M.S.E. in Robotics along the way. My graduate research explores how people learn motor skills together in haptic dyads and how control strategies can be designed to enhance both individual recovery and social interaction in rehabilitation. A day in my life might include collecting human-robot-interaction data in the clinic, modeling post-stroke movement behavior, and mentoring undergraduate researchers.
+As an undergraduate at the University of Tennessee, I volunteered with students with disabilities and designed assistive devices through student organizations. I also conducted research on how upper-limb movement kinematics relate to confidence in task performance, with implications for post-stroke monitoring. I went on to pursue my PhD at Penn, picking up an M.S.E. in Robotics along the way. My graduate research explores how people learn motor skills together in haptic dyads and how control strategies can be designed to enhance both individual recovery and social interaction in rehabilitation.
 
 I have received support from the NSF Graduate Research Fellowship and the NIH Ruth L. Kirschstein Predoctoral NRSA (F31). My long-term goal is to bring empathetic, intelligent rehabilitation technology out of the lab and into real-world use, particularly in underserved clinical settings. I am also passionate about research mentorship and STEM outreach, especially at the K–12 level.
-
-I am excited to continue exploring the intersection of haptics, learning, and human-robot interaction through collaborative research that reimagines how people support one another through technology!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

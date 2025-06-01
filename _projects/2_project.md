@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grand Theft Autonomous (Autonomous Vehicle Design Challenge)
-description: Final project for MEAM 5100 design of mechatronic systems class
+description: Final project for MEAM 5100 Design of Mechatronic Systems (Penn, Fall 2022)
 img: assets/img/yark_side.jpeg
 importance: 2
 category: School

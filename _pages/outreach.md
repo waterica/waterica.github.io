@@ -11,14 +11,14 @@ nav_order: 3
     <div class="col-md-4 mt-3">
         {% include figure.html path="assets/img/franklinInstitute_outreach.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Leading a robotics workshop for high school students in the Franklin Institute STEM Scholars Program (Spring 2025).
+            Leading a robotics workshop for the Franklin Institute STEM Scholars Program (Spring 2025).
         </div>
     </div>
 
     <div class="col-md-4 mt-3">
         {% include figure.html path="assets/img/labTour_outreach.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Demoing TheraDyad robots to K-12 teachers (Spring 2025).
+            Demoing TheraDyad robots to Philadelphia area K-12 teachers (Spring 2025).
         </div>
     </div>
 

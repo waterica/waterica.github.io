@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-01-15 15:59:00-0400
-title: EMBC 2025
+title: GPMRR
 inline: true
 related_posts: false
 ---

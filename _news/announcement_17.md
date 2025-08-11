@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://events.seas.upenn.edu/event/meam-seminar-leveraging-robot-based-haptic-dyads-to-improve-community-based-stroke-rehabilitation/">MEAM Departmental Deminar</a>, University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics, Events Calendar
+<a href="https://events.seas.upenn.edu/event/meam-seminar-leveraging-robot-based-haptic-dyads-to-improve-community-based-stroke-rehabilitation/">MEAM Departmental Seminar</a>, University of Pennsylvania, Department of Mechanical Engineering and Applied Mechanics, Events Calendar

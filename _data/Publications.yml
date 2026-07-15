@@ -2,6 +2,9 @@ subject: Publications
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
+  - title: Under Review / In Preparation
+    ref: 
+      - "**E. L. Waters**, N. Y. Meng, N. Stroutinky-Sobotka, F. S. Shofer, P. Z. Cacchione, R. J. Mendonca, M. J. Johnson. “Haptic Connection to a Partner Enhances Motor Learning in Older Adults: Implications for Multiplayer Robotic Exercise and Rehabilitation”, *[IEEE Transactions on Neural Systems and Rehabilitation Engineering , Under Review]*."
   - title: Journal
     ref: 
       - "**E. L. Waters** and M. J. Johnson, “Motor Learning in Robot-Based Haptic Dyads: A Review,” in *IEEE Transactions on Haptics*, vol. 17, no. 4, pp. 510-527, Oct.-Dec. 2024, [doi: 10.1109/TOH.2024.3379035.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11831855/)"

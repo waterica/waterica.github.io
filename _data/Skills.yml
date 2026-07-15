@@ -4,15 +4,10 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Engineering
     description: 
-      - Human Modeling, Kinematic Analysis, Machine Learning, Robotics, Haptics, Control Systems, Microcontrollers (Arduino, Teensy), CAD (SolidWorks, OnShape), Rapid Prototyping (3D printing, laser cutting)"
-  - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
-    "
+      - "Human Modeling, Kinematic Analysis, Machine Learning, Robotics, Haptics, Control Systems, Microcontrollers (Arduino, Teensy), CAD (SolidWorks, OnShape), Rapid Prototyping (3D printing, laser cutting)"
+  - title: Programming
+    description: "Python (NumPy, SciPy, Pandas, Scikit-learn, etc.), R (R Studio), MATLAB, C/C++, Unity (C\\#)"
+  - title: Research
+    description: "Research Ethics (IRB compliance, informed consent), Experimental Design (protocol writing, hypothesis generation, group assignment), Data Collection (REDCap, clinical assessment, user-experience surveys, interviews), Analysis (statistical analysis, figure design), Writing (grant proposals, research publications)"
+  - title: Soft Skills
+    description: "Communication, Mentorship, Leadership, Time Management, Collaboration, Organization"

@@ -2,12 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: NIH F31 Predoctoral Fellowship
+    description: Awarded $144,000 to support dissertation research; competitive fellowship funding fewer than 30% of applicants; designated principal investigator
+    date: Aug. 2024 - Dec. 2026
+  - title: NSF Graduate Research Fellowship
+    description: Awarded $138,000 to support graduate research and education; competitive fellowship awarded to ≈ 15% of over 12,000 applicants annually
+    date: Aug. 2021 - May 2024
+  - title: National Academy of Engineers Grand Challenge Scholar
+    description: Completed an individualized plan of curricular and extracurricular experiences towards solving the grand challenges of engineering.
+    date: Dec. 2020

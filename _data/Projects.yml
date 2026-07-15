@@ -9,7 +9,7 @@ contents:
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "Robot Gym Clinical Deployment ([Funding](https://reporter.nih.gov/project-details/10923752), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861168/))"
     description: 
-      - Collaborated with a diverse team including clinicians (OT, PT, CRNP), game developers (enAble Games LLC), and startup stakeholders (Recupero Robotics LLC) on a longitudinal feasibility study.
+      - Collaborated with a diverse team including clinicians (OT, PT, CRNP), game developers ([enAble Games LLC](https://www.enablegames.com/)), and startup stakeholders ([Recupero Robotics LLC](https://recuperorobotics.com/)) on a longitudinal feasibility study.
       - Designed and implemented adaptive controllers that enabled 12+ months of continuous deployment in a clinic; developed a pipeline for processing kinematic data; analyzed usability and acceptability of the robot gym.
     #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
   - title: "Model of Post-Stroke Motor Control ([Funding](https://reporter.nih.gov/project-details/10998763), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861173/), [Publication 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861175/))" 

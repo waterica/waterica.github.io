@@ -2,17 +2,16 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: University of Pennsylvania, PhD in Mechanical Engineering and Applied Mechanics
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - "**Dissertation**: Leveraging Robot-Based Haptic Dyads to Improve Community-Based Stroke Rehabilitation"
+      - "**Advisor**: Michelle Johnson, PhD"
+    date: Aug. 2021 - Dec. 2026
+  - title: University of Pennsylvania, MSE in Robotics 
+    #grade: "**GPA**: `4.1/4.3`"
+    date: Aug. 2021 - Aug. 2023
+  - title: University of Tennessee, BS in Mechanical Engineering
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
+      - "**Capstone Project**: Myoelectric 3D-Printed Hand/Wrist Prosthesis; sponsored by Choice Orthotics & Prosthetics"
+    #grade: "**GPA**: `3.9/4.3`"
     date: Mar. 2010 - Feb. 2014

@@ -6,7 +6,7 @@ contents:
     description: 
       - "**Biomechanics**: Human Modeling, Kinematic Analysis"
       - "**Robotics**: Machine Learning, Robotics, Haptics, Control Systems, Microcontrollers (Arduino, Teensy)"
-      - "**Programming**: Python (NumPy, SciPy, Pandas, Scikit-learn, etc.), R (R Studio), MATLAB, C/C++, Unity (C\\#)"
+      - "**Programming**: Python (NumPy, SciPy, Pandas, Scikit-learn, etc.), R (R Studio), MATLAB, C/C++, C\\# (Unity))"
       - "**Mechanical Design**: CAD (SolidWorks, OnShape), Rapid Prototyping (3D printing, laser cutting)"
   - title: Research
     description: 

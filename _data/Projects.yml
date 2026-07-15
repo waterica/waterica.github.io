@@ -17,7 +17,7 @@ contents:
       - Designed an optimal control model of behavior in a robot-based tracking task.
       - Utilized optimization techniques including least-squares and gradient descent to fit parameters, achieving high accuracy (R = 0.89) with potential to inform clinical motor and cognitive assessment tools.
     #image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
-  - title: "Predicting Post-Stroke Kinematics from CT Scans ([Funding](https://reporter.nih.gov/project-details/10765218), [Publication 1](https://ieeexplore-ieee-org.proxy.library.upenn.edu/abstract/document/11589029/))" 
+  - title: "Predicting Post-Stroke Kinematics from CT Scans ([Funding](https://reporter.nih.gov/project-details/10765218), [Publication 1](https://ieeexplore.ieee.org/abstract/document/11589029/))" 
     description: 
       - Used supervised machine learning techniques to predict post-stroke kinematic performance from clinical assessments and features derived from CT scans.
       - Developed an elastic net regression model to predict post-stroke reaching kinematics from brain lesion metrics (R<sup>2</sup> = 0.41), demonstrating feasibility of CT-based functional prediction.

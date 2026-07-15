@@ -2,21 +2,22 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Rehabilitation Robotics Lab, GRASP Lab, University of Pennsylvania 
+    role: Graduate Research Assistant
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Led development, integration, and clinical evaluation of human–robot interaction systems for neurorehabilitation, focusing on adaptive haptic feedback and multi-user interaction.
+      - Developed and deployed adaptive assistive and resistive feedback controllers for reconfigurable therapy robots.
+      - Designed and implemented IRB-approved clinical studies with older adults and adults with stroke (n = 50+).
+      - Led 150+ hours of clinical research, including clinical assessments, robot evaluations, and qualitative interviews.
+      - Built analysis pipelines (R, Python) for multimodal human data (sEMG, kinematics) using machine learning. 
+      - Collaborated with clinicians (OT, PT, CRNP) to design protocols, interpret results, and ensure clinical relevance.
+      - Awarded NSF GRFP and NIH F31 on first submission; independently developed proposals and led reporting.
+      - Published 9 peer-reviewed papers (6 first-author) and presented work at engineering and clinical conferences.
+    date: Aug. 2021 - Present
+  - title: Behavior, Robotics, and Sensing Group, University of Tennessee
+    role: Undergraduate Research Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Designed, implemented, and published a study relating human reaching behavior and self-reported confidence.
+      - Utilized the MotionMonitor Tracking System to obtain 3D motion capture data of goal-directed reaching.
+      - Trained a k-NN algorithm to classify reaches by participant confidence using kinematic features.
+    date: Feb. 2018 - Jan. 2020

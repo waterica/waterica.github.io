@@ -24,7 +24,6 @@ exclude:
   - _posts/
   - resources/
   - vendor/
-  - _data/Languages.yml
 
 plugins:
   - jekyll-feed

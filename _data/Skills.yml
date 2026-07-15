@@ -6,8 +6,11 @@ contents:
     description: 
       - "Human Modeling, Kinematic Analysis, Machine Learning, Robotics, Haptics, Control Systems, Microcontrollers (Arduino, Teensy), CAD (SolidWorks, OnShape), Rapid Prototyping (3D printing, laser cutting)"
   - title: Programming
-    description: "Python (NumPy, SciPy, Pandas, Scikit-learn, etc.), R (R Studio), MATLAB, C/C++, Unity (C\\#)"
+    description: 
+      - "Python (NumPy, SciPy, Pandas, Scikit-learn, etc.), R (R Studio), MATLAB, C/C++, Unity (C\\#)"
   - title: Research
-    description: "Research Ethics (IRB compliance, informed consent), Experimental Design (protocol writing, hypothesis generation, group assignment), Data Collection (REDCap, clinical assessment, user-experience surveys, interviews), Analysis (statistical analysis, figure design), Writing (grant proposals, research publications)"
+    description: 
+      - "Research Ethics (IRB compliance, informed consent), Experimental Design (protocol writing, hypothesis generation, group assignment), Data Collection (REDCap, clinical assessment, user-experience surveys, interviews), Analysis (statistical analysis, figure design), Writing (grant proposals, research publications)"
   - title: Soft Skills
-    description: "Communication, Mentorship, Leadership, Time Management, Collaboration, Organization"
+    description: 
+      - "Communication, Mentorship, Leadership, Time Management, Collaboration, Organization"

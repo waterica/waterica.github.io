@@ -2,22 +2,22 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Motor Learning in Haptic Dyads ([Funding](https://reporter.nih.gov/project-details/11198996), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12153014/))"
+  - title: "Motor Learning in Haptic Dyads ([Funding](https://reporter.nih.gov/project-details/10998763), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12153014/))"
     description: 
       - Investigated physical communication during robot-mediated collaborative motor tasks to support post-stroke neurorehabilitation. Developed a novel dyadic training protocol using force-sharing with a human partner.
       - Demonstrated feasibility and efficacy of bi-directional haptic feedback for motor learning in people with stroke; published the first implementation of robot-based haptic dyad for individuals with neurological impairments.
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "Robot Gym Clinical Deployment ([https://recuperorobotics.com/](https://recuperorobotics.com/))"
+  - title: "Robot Gym Clinical Deployment ([Funding](https://reporter.nih.gov/project-details/10923752), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861168/))"
     description: 
       - Collaborated with a diverse team including clinicians (OT, PT, CRNP), game developers (enAble Games LLC), and startup stakeholders (Recupero Robotics LLC) on a longitudinal feasibility study.
       - Designed and implemented adaptive controllers that enabled 12+ months of continuous deployment in a clinic; developed a pipeline for processing kinematic data; analyzed usability and acceptability of the robot gym.
     #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "Model of Post-Stroke Motor Control" 
+  - title: "Model of Post-Stroke Motor Control ([Funding](https://reporter.nih.gov/project-details/10998763), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861173/), [Publication 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC12861175/))" 
     description: 
       - Designed an optimal control model of behavior in a robot-based tracking task.
       - Utilized optimization techniques including least-squares and gradient descent to fit parameters, achieving high accuracy (R = 0.89) with potential to inform clinical motor and cognitive assessment tools.
     #image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
-  - title: "Predicting Post-Stroke Kinematics from CT Scans" 
+  - title: "Predicting Post-Stroke Kinematics from CT Scans ([Funding](https://reporter.nih.gov/project-details/10765218), [Publication 1](https://ieeexplore-ieee-org.proxy.library.upenn.edu/abstract/document/11589029/))" 
     description: 
       - Used supervised machine learning techniques to predict post-stroke kinematic performance from clinical assessments and features derived from CT scans.
       - Developed an elastic net regression model to predict post-stroke reaching kinematics from brain lesion metrics (R<sup>2</sup> = 0.41), demonstrating feasibility of CT-based functional prediction.

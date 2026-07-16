@@ -87,6 +87,18 @@
             <div><span>{{ site.blog_url }}</span></div>
           </a></li>
         {% endif %}
+        {% if site.scholar_userid %}
+          <li><a aria-label="My Scholar" href="{{ site.scholar_userid }}">
+            <img src="{{ '/assets/img/scholar.svg' | prepend: site.baseurl }}" alt="My Scholar">
+            <div><span>{{ site.scholar_userid }}</span></div>
+          </a></li>
+        {% endif %}
+        {% if site.orcid_id %}
+          <li><a aria-label="My ORCID" href="{{ site.orcid_id }}">
+            <img src="{{ '/assets/img/orcide.svg' | prepend: site.baseurl }}" alt="My ORCID">
+            <div><span>{{ site.orcid_id }}</span></div>
+          </a></li>
+        {% endif %}
       </ul>
     </div>
     <div class="name-zone">

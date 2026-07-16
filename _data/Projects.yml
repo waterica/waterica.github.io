@@ -2,7 +2,7 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Motor Learning in Haptic Dyads ([Funding](https://reporter.nih.gov/project-details/10998763), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12153014/))"
+  - title: "Motor Learning in Haptic Dyads ([Funding](https://reporter.nih.gov/project-details/10998763), [Talk](https://www.youtube.com/watch?v=axFI129QTU0), [Publication 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12153014/))"
     description: 
       - Investigated physical communication during robot-mediated collaborative motor tasks to support post-stroke neurorehabilitation. Developed a novel dyadic training protocol using force-sharing with a human partner.
       - Demonstrated feasibility and efficacy of bi-directional haptic feedback for motor learning in people with stroke; published the first implementation of robot-based haptic dyad for individuals with neurological impairments.

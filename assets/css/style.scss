@@ -160,15 +160,16 @@ a { text-decoration:none; }
         li:nth-child(10) { margin-left: 5.25rem; }
     }
     
-    .name-zone { margin-top: -2rem; }
+    .name-zone { 
+        margin-top: -2rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+     }
 
     .name-zone h1, 
-    .name-zone h2 {
-        margin: 0;
-    }
+    .name-zone h2, 
     .name-zone h4 {
-        margin-right: 7.5%;
-        margin-left: 7.5%;
+        margin: 0;
     }
     
     .name-zone h1 { color: var(--theme3-dark); }

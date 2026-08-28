@@ -474,7 +474,7 @@ a { text-decoration:none; }
   display: none;
 }
 
-#contents .collapsible-category summary.content-header::after {
+#contents .collapsible-category summary.content-header::before {
   content: "▶";
   font-size: 0.75em;
   color: var(--font-dark);
@@ -484,6 +484,6 @@ a { text-decoration:none; }
   transition: transform 0.2s ease;
 }
 
-#contents .collapsible-category[open] summary.content-header::after {
+#contents .collapsible-category[open] summary.content-header::before {
   transform: rotate(90deg);
 }

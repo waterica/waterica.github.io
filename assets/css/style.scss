@@ -168,13 +168,13 @@ a { text-decoration:none; }
 
     .name-zone h1, 
     .name-zone h2, 
-    .name-zone h4 {
+    .name-zone h5 {
         margin: 0;
     }
     
     .name-zone h1 { color: var(--theme3-dark); }
     .name-zone h2 { color: var(--theme4-dark); }
-    .name-zone h4 { color: var(--font-dark); }
+    .name-zone h5 { color: var(--font-dark); }
 }
 
 #contents{

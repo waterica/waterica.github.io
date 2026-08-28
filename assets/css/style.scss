@@ -456,3 +456,24 @@ a { text-decoration:none; }
         img { max-width: 100%; }
     }
 }
+
+.collapsible-category summary.content-header {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.collapsible-category summary.content-header::-webkit-details-marker {
+  display: none;
+}
+.collapsible-category summary.content-header::after {
+  content: "▶";
+  font-size: 0.75em;
+  margin-left: 10px;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+.collapsible-category[open] summary.content-header::after {
+  transform: rotate(90deg);
+}

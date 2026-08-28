@@ -26,6 +26,7 @@ exclude:
   - _posts/
   - resources/
   - vendor/
+  - _data/Experience.yml
 
 plugins:
   - jekyll-feed

@@ -118,6 +118,36 @@
           </h2>
           <ul>
               {% for member in subject.contents %}
+              {% if subject.subject == "Publications" %}
+              <li class="item">
+                <details class="collapsible-category">
+                  <summary class="content-header">
+                    {{ member.title | markdownify }}
+                    {% if member.date %}
+                      <span class="content-date">
+                        <img src="{{ '/assets/img/calendar.webp' | prepend: site.baseurl}}" alt="date">
+                        {{ member.date }}
+                      </span>
+                    {% endif %}
+                  </summary>
+                  {% for item in member %}
+                    {% if item[0] != "title" and item[0] != "date" %}
+                      {% if item[1].first %}
+                        <ul>
+                          {% for subitem in item[1] %}
+                          <li class="subitem">
+                            {{ subitem | markdownify }}
+                          </li>
+                          {% endfor %}
+                        </ul>
+                      {% else %}
+                        {{ item[1] | markdownify }}
+                      {% endif %}
+                    {% endif %}
+                  {% endfor %}
+                </details>
+              </li>
+              {% else %}
               <li class="item">
                   <div class="content-header">
                     {{ member.title | markdownify }}
@@ -144,6 +174,7 @@
                     {% endif %}
                   {% endfor %}
               </li>
+              {% endif %}
               {% endfor %}
           </ul>
         </li>

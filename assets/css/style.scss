@@ -474,16 +474,16 @@ a { text-decoration:none; }
   display: none;
 }
 
-#contents .collapsible-category summary.content-header::before {
+#contents .collapsible-category summary.content-header::after {
   content: "▶";
   font-size: 0.75em;
   color: var(--font-dark);
-  margin-right: 6px;
+  margin-left: 10px;
   flex-shrink: 0;
   display: inline-block;
   transition: transform 0.2s ease;
 }
 
-#contents .collapsible-category[open] summary.content-header::before {
+#contents .collapsible-category[open] summary.content-header::after {
   transform: rotate(90deg);
 }
